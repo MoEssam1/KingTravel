@@ -1,0 +1,32 @@
+
+.search::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: #fff !important;
+        opacity: 1; /* Firefox */
+        }
+        .search:-ms-input-placeholder { /* Internet Explorer 10-11 */
+        color:#fff;
+        }
+        .search::-ms-input-placeholder { /* Microsoft Edge */
+        color:#fff;
+        }
+.b-nav{
+    background-color:#0191b4;    
+    height:50px;
+    
+}
+.nav-link{
+       font-size: 18px;
+       font-weight: 350;
+       color: #fff; 
+       height: 50px;
+       display: flex;
+       align-items: center;
+}
+.nav-link:hover{
+    background-color: #1eb5db;
+    color: #fff;
+}
+
+.header{
+    
+}
